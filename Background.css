@@ -1,1 +1,9 @@
 
+/* LONGHAND */  
+background-color: #000;  
+background-image: url(images/bg.png);  
+background-repeat: no-repeat;  
+background-position: left top;  
+  
+/* SHORTHAND */  
+background: #000 url(images/bg.png) no-repeat left top;
