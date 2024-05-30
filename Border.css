@@ -1,1 +1,7 @@
+/* LONGHAND */
+border-width: 1px;
+border-style: solid;
+border-color: #000;
 
+/* SHORTHAND */
+border: 1px solid #000;
