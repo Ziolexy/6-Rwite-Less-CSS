@@ -1,1 +1,9 @@
+/* LONGHAND */
+font-style: italic;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+font-family: Arial, sans-serif;
 
+/* SHORTHAND */
+font: italic bold 18px/150% Arial, sans-serif;
