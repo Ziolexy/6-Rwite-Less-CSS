@@ -1,1 +1,9 @@
 
+/* LONGHAND */
+margin-top: 10px;
+margin-right: 5px;
+margin-bottom: 10px;
+margin-left: 5px;
+
+/* SHORTHAND */
+margin: 10px 5px;
